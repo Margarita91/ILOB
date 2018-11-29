@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ILOB</string>
+    <string name="unknown">Unknown</string>
+    <string name="publisher">Publisher </string>
+    <string name="published_date">Published day </string>
+    <string name="author">Author</string>
+    <string name="description">Description </string>
+    <string name="google_books">GOOGLE BOOKS</string>
+    <string name="book_title">Book title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="about_the_book">About the book</string>
+    <string name="view">View</string>
+    <string name="search_hint">Book title, author or ISBN</string>
+    <string name="book_info">Book Information</string>
+    <string name="share_image">Share Image</string>
+    <string name="book_cover">book_cover_</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="backdrop_title_text_size">25sp</dimen>
+    <dimen name="backdrop_subtitle">18dp</dimen>
+    <dimen name="splash_screen_title_size">50sp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="default_padding_start">20dp</dimen>
+    <dimen name="title_size">18sp</dimen>
+</resources>
